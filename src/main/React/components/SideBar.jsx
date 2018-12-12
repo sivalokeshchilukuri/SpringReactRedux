@@ -16,7 +16,7 @@ export default class SideBar extends React.Component {
                 <div className="logo">
 
                     <Link to="/" className="simple-text">
-                        EXAMPLE
+                        Produts Application
                     </Link>
 
                 </div>
@@ -25,14 +25,14 @@ export default class SideBar extends React.Component {
                     <li>
                         <Link to="/products">
                             <i className="pe-7s-ribbon"></i>
-                            Produits
+                           List of Products
                         </Link>
                     </li>
 
                     <li>
                         <Link to="/products/new">
                             <i className="pe-7s-ribbon"></i>
-                            Add Product
+                            Add new Product
                         </Link>
                     </li>
 

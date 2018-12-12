@@ -23,7 +23,7 @@ export default class Footer extends React.Component {
                     </ul>
                 </nav>
                 <p className="copyright pull-right">
-                    Exemple React + spring boot, par MBL
+                        © 2019 Lokesh All Rights Reserved
                 </p>
             </div>
         </footer>

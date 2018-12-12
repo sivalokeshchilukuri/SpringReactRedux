@@ -20,7 +20,7 @@ export class SomePageContainer extends React.Component {
                 <div className="col-md-12">
                     <div className="panel panel-default">
                         <div className="panel-body">
-                            Basic panel example
+                           Basic panel
                         </div>
                     </div>
                 </div>
